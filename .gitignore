@@ -8,6 +8,16 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+<<<<<<< Updated upstream
+=======
+/[Uu]ser[Ss]ettings/
+[Cc]hicoCool_v.01/
+[Rr]ecorridoMoreliaVR
+[Pp]oolVR
+[Ss]paceInvaders
+# MemoryCaptures can get excessive in size.
+# They also could contain extremely sensitive data
+>>>>>>> Stashed changes
 /[Mm]emoryCaptures/
 <<<<<<< Updated upstream
 
