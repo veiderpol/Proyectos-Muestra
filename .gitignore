@@ -9,7 +9,12 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+<<<<<<< Updated upstream
 
+=======
+/[Cc]hicoCool_v.01
+/[Rr]ecorridoMoreliaVR
+>>>>>>> Stashed changes
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
