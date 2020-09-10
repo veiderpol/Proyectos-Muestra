@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &146332053559244664
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 146332053559244670}
+  - component: {fileID: 146332053559244671}
+  m_Layer: 0
+  m_Name: ObjectPooler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &146332053559244670
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146332053559244664}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -76.50122, y: -104.26315, z: 265.5787}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &146332053559244671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 146332053559244664}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e7cff97512b0694f80dbdcd7b33786b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  repoGameobject: {fileID: 2055008273628324546, guid: 9ecd437199ade554f8f89189c72c8887,
+    type: 3}
+  respoGameObj: {fileID: 0}
+  canvasGanar: {fileID: 0}
+  canvasMenu: {fileID: 0}
+  canvasGO: {fileID: 0}
+  canvasInGame: {fileID: 0}
+  objPlayer: {fileID: 0}
+  RES:
+  - {fileID: 5545353854543130466, guid: 108d64d05623a1b4a855eb04cd3d47f8, type: 3}
+  - {fileID: 6663287858276595377, guid: 15ad363f5fa2bf245a1062e7a929d963, type: 3}
+  - {fileID: 3768418559075330223, guid: 6acff8303553b124a98228c69f39253a, type: 3}
+  - {fileID: 8992546145310878865, guid: 209e80d286b10d944a039c6af5efb71e, type: 3}
+  - {fileID: 3086674216508229546, guid: 1bf7f71c24ed88e47bcf8e291add7b17, type: 3}
+  - {fileID: 6579762911877158143, guid: 63c8c25247ef0eb4abf9ceff11a779e9, type: 3}
+  RES_MALO:
+  - {fileID: 3513215830733710794, guid: 8c72714b2a1d9da47a00e8496f349e21, type: 3}
+  - {fileID: 8396419675343002631, guid: 894a9c3fe8f887e489adb7b69da465ed, type: 3}
+  - {fileID: 8842315817365346398, guid: 2f20c0e7522e71f47b1bd4b2f3514383, type: 3}
+  - {fileID: 6503637442814699287, guid: 696e398e33c24c248a97c0a9b2a512f4, type: 3}
+  - {fileID: 4599260690614462525, guid: d894975aba15c0c4d8670e4e8b684add, type: 3}
+  - {fileID: 8613500864805175348, guid: 0168ee8acd97e404eb107b10f57057a1, type: 3}
+  - {fileID: 8334507655543014561, guid: 75ed4e98add35de4bac253e59810e802, type: 3}
+  sliderAvance: {fileID: 0}
+  imgFill: {fileID: 0}
+  imgCorazon:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  vidasRestante: 0
+  randRespo: 0
+  puntuaje: 0
+  pools:
+  - tag: Edificio_1_I
+    prefab: {fileID: 7394118511252352527, guid: cd252745581948040927d3684747f0ef,
+      type: 3}
+    size: 4
+  - tag: Edificio_2_I
+    prefab: {fileID: 416685207195044022, guid: 3fc5db83f99640d46ad5cc8328c6fed7, type: 3}
+    size: 4
+  - tag: Edificio_1_D
+    prefab: {fileID: 7394118511252352527, guid: cd252745581948040927d3684747f0ef,
+      type: 3}
+    size: 4
+  - tag: Edificio_2_D
+    prefab: {fileID: 416685207195044022, guid: 3fc5db83f99640d46ad5cc8328c6fed7, type: 3}
+    size: 4
+  pos_1: {fileID: 0}
+  pos_1_2: {fileID: 0}
+  pos_2: {fileID: 0}
+  pos_2_2: {fileID: 0}
+  posEsfera: {fileID: 0}
+  posRespo_1: {fileID: 0}
+  posRespo_2: {fileID: 0}
+  runing: 1
+  animPlayer: {fileID: 0}
+  textMeshPro: {fileID: 0}
