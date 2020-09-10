@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 36e728e319dc8904aa31463cfc8a6468
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AirVentF
+    100002: //RootNode
+    100004: CabinetCenter
+    100006: CabinetSides
+    100008: Camera
+    100010: CannonButton
+    100012: CoinDoorFace
+    100014: CoinDoorLock
+    100016: DownButton
+    100018: GunsButton
+    100020: LeftButton
+    100022: Point
+    100024: Point.001
+    100026: RightButton
+    100028: Screen
+    100030: Screws
+    100032: Slots
+    100034: StartButton
+    100036: Sun
+    100038: Sun.001
+    100040: TrackSphere
+    100042: UpButton
+    400000: AirVentF
+    400002: //RootNode
+    400004: CabinetCenter
+    400006: CabinetSides
+    400008: Camera
+    400010: CannonButton
+    400012: CoinDoorFace
+    400014: CoinDoorLock
+    400016: DownButton
+    400018: GunsButton
+    400020: LeftButton
+    400022: Point
+    400024: Point.001
+    400026: RightButton
+    400028: Screen
+    400030: Screws
+    400032: Slots
+    400034: StartButton
+    400036: Sun
+    400038: Sun.001
+    400040: TrackSphere
+    400042: UpButton
+    2000000: Camera
+    2100000: Vent
+    2100002: KeyHole
+    2100004: RedButton
+    2100006: Buttons
+    2100008: YellowButton
+    2100010: BlueButton
+    2100012: Ring(TrackBall)
+    2100014: TrackBall
+    2100016: CoinSlots
+    2100018: Screws
+    2100020: CoinDoor
+    2100022: AsterFire Title screen
+    2100024: Front
+    2100026: Sides
+    2300000: AirVentF
+    2300002: CabinetCenter
+    2300004: CabinetSides
+    2300006: CannonButton
+    2300008: CoinDoorFace
+    2300010: CoinDoorLock
+    2300012: DownButton
+    2300014: GunsButton
+    2300016: LeftButton
+    2300018: RightButton
+    2300020: Screen
+    2300022: Screws
+    2300024: Slots
+    2300026: StartButton
+    2300028: TrackSphere
+    2300030: UpButton
+    3300000: AirVentF
+    3300002: CabinetCenter
+    3300004: CabinetSides
+    3300006: CannonButton
+    3300008: CoinDoorFace
+    3300010: CoinDoorLock
+    3300012: DownButton
+    3300014: GunsButton
+    3300016: LeftButton
+    3300018: RightButton
+    3300020: Screen
+    3300022: Screws
+    3300024: Slots
+    3300026: StartButton
+    3300028: TrackSphere
+    3300030: UpButton
+    4300000: AirVentF
+    4300002: CoinDoorLock
+    4300004: StartButton
+    4300006: DownButton
+    4300008: LeftButton
+    4300010: UpButton
+    4300012: GunsButton
+    4300014: CannonButton
+    4300016: TrackSphere
+    4300018: RightButton
+    4300020: Slots
+    4300022: Screws
+    4300024: CoinDoorFace
+    4300026: Screen
+    4300028: CabinetCenter
+    4300030: CabinetSides
+    10800000: Point
+    10800002: Point.001
+    10800004: Sun
+    10800006: Sun.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

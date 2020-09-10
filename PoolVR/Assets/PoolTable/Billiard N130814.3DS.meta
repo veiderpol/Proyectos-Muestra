@@ -1,0 +1,335 @@
+fileFormatVersion: 2
+guid: 8f483eadb05bbec4bb01a377d1378b59
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bola-01 ww
+    100004: bola-02 ww
+    100006: bola-03 ww
+    100008: bola-04 ww
+    100010: bola-05 ww
+    100012: bola-06 ww
+    100014: bola-07 ww
+    100016: bola-08 ww
+    100018: bola-09 ww
+    100020: bola-10 ww
+    100022: bola-11 ww
+    100024: bola-12 ww
+    100026: bola-13 ww
+    100028: bola-14 ww
+    100030: bola-15 ww
+    100032: bola-branc
+    100034: Box07 www.
+    100036: mesa bilha
+    100038: taco bilh0
+    100040: taco bilh1
+    100042: taco bilh2
+    100044: taco bilha
+    400000: //RootNode
+    400002: bola-01 ww
+    400004: bola-02 ww
+    400006: bola-03 ww
+    400008: bola-04 ww
+    400010: bola-05 ww
+    400012: bola-06 ww
+    400014: bola-07 ww
+    400016: bola-08 ww
+    400018: bola-09 ww
+    400020: bola-10 ww
+    400022: bola-11 ww
+    400024: bola-12 ww
+    400026: bola-13 ww
+    400028: bola-14 ww
+    400030: bola-15 ww
+    400032: bola-branc
+    400034: Box07 www.
+    400036: mesa bilha
+    400038: taco bilh0
+    400040: taco bilh1
+    400042: taco bilh2
+    400044: taco bilha
+    2300000: bola-01 ww
+    2300002: bola-02 ww
+    2300004: bola-03 ww
+    2300006: bola-04 ww
+    2300008: bola-05 ww
+    2300010: bola-06 ww
+    2300012: bola-07 ww
+    2300014: bola-08 ww
+    2300016: bola-09 ww
+    2300018: bola-10 ww
+    2300020: bola-11 ww
+    2300022: bola-12 ww
+    2300024: bola-13 ww
+    2300026: bola-14 ww
+    2300028: bola-15 ww
+    2300030: bola-branc
+    2300032: Box07 www.
+    2300034: mesa bilha
+    2300036: taco bilh0
+    2300038: taco bilh1
+    2300040: taco bilh2
+    2300042: taco bilha
+    3300000: bola-01 ww
+    3300002: bola-02 ww
+    3300004: bola-03 ww
+    3300006: bola-04 ww
+    3300008: bola-05 ww
+    3300010: bola-06 ww
+    3300012: bola-07 ww
+    3300014: bola-08 ww
+    3300016: bola-09 ww
+    3300018: bola-10 ww
+    3300020: bola-11 ww
+    3300022: bola-12 ww
+    3300024: bola-13 ww
+    3300026: bola-14 ww
+    3300028: bola-15 ww
+    3300030: bola-branc
+    3300032: Box07 www.
+    3300034: mesa bilha
+    3300036: taco bilh0
+    3300038: taco bilh1
+    3300040: taco bilh2
+    3300042: taco bilha
+    4300000: mesa bilha
+    4300002: Box07 www.
+    4300004: bola-01 ww
+    4300006: bola-02 ww
+    4300008: bola-03 ww
+    4300010: bola-04 ww
+    4300012: bola-05 ww
+    4300014: bola-06 ww
+    4300016: bola-07 ww
+    4300018: bola-08 ww
+    4300020: bola-09 ww
+    4300022: bola-10 ww
+    4300024: bola-branc
+    4300026: bola-11 ww
+    4300028: bola-12 ww
+    4300030: bola-13 ww
+    4300032: bola-14 ww
+    4300034: bola-15 ww
+    4300036: taco bilha
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bilhar cromo www
+    second: {fileID: 2100000, guid: bcf5f5bd555af25439985d8fb643792b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bilhar veludo ww
+    second: {fileID: 2100000, guid: 04c73e51b60819a4b9943c42a1817cd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-01 www.3d1_
+    second: {fileID: 2100000, guid: 9bc06eadea24e714a8d2dc33dc384b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-02 www.3d1_
+    second: {fileID: 2100000, guid: 2819bc6a2ee422a47b688bf386f7f14c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-03 www.3d1_
+    second: {fileID: 2100000, guid: 0b349d157f7223b4b8fecbefac7dabfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-04 www.3d1_
+    second: {fileID: 2100000, guid: 10a23640e2c9f194890ac077424c3d44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-05 www.3d1_
+    second: {fileID: 2100000, guid: 03e2a78cc599cdc49bfec312ff748c3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-06 www.3d1_
+    second: {fileID: 2100000, guid: 9d318b51b18b50a4985bf99b1fc6a337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-07 www.3d1_
+    second: {fileID: 2100000, guid: 97af01430eed0804487a6c6efe526136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-08 www.3d1_
+    second: {fileID: 2100000, guid: 9cf0a4ac5502e654c93865be89070b41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-09 www.3d1_
+    second: {fileID: 2100000, guid: 7b488f6c455e10e45b2cabe2728b1502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-10 www.3d1_
+    second: {fileID: 2100000, guid: 9fa2a0afa2a50844b956d0503d2cc62f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-11 www.3d1_
+    second: {fileID: 2100000, guid: 6639d116316d2f54d9415ab8a304a031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-12 www.3d1_
+    second: {fileID: 2100000, guid: ae2411305908ca94abe9fced297854a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-13 www.3d1_
+    second: {fileID: 2100000, guid: 51715d3eae97c1d47b0e84f2683a8b46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-14 www.3d1_
+    second: {fileID: 2100000, guid: f74a64e5225c07b43a28be232bc6f7cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-15 www.3d1_
+    second: {fileID: 2100000, guid: 2c2fe0f441ce3774b8843b886f1b3b99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bola-branca www_
+    second: {fileID: 2100000, guid: 4f80efe82e6fb3944a0f61732937f545, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome go
+    second: {fileID: 2100000, guid: 4e88376ddbc405a4584073192bfcf40b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glossy green
+    second: {fileID: 2100000, guid: 4182bae76541a6848a0aac901aba31d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesa bilhar  met
+    second: {fileID: 2100000, guid: f5bab075ed8a99d4eb1ff4aa607ef907, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taco bilhar made
+    second: {fileID: 2100000, guid: e90fb961811075c4495a645961eb60f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  birch
+    second: {fileID: 2100000, guid: 6bd93f782d1d5c74f86743ebb04b7220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  birch1
+    second: {fileID: 2100000, guid: ba0a8598178bbf64cb7f1e4b2637c2c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  oreh-itali1
+    second: {fileID: 2100000, guid: 2e7f301c1d8927240b91599cd3d0e9cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  oreh-itali2
+    second: {fileID: 2100000, guid: c193c008f375efd4d8f31253e588668b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w  oreh-italians
+    second: {fileID: 2100000, guid: 45317915160c9f843946b8fb790322c3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
