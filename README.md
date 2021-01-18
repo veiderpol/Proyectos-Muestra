@@ -1,5 +1,5 @@
 # Proyectos-Muestra
-Proyectos muestra para Inmersys
+Proyectos muestra de mi trabajo en solitario.
 
 Creé 5 branches, cada uno con un proyecto de Unity.
 
